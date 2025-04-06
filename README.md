@@ -1,7 +1,7 @@
 # Credit_card_Insight_dashbord
 Power BI dashboard 
- Credit Card Usage Analysis Dashboard – Power BI
-This interactive Power BI dashboard provides a comprehensive analysis of credit card users across various demographic and geographic dimensions. It is designed to help stakeholders understand usage trends, target customer segments, and make data-driven decisions.
+1. Credit Card Usage Analysis Dashboard – Power BI
+Formed a comprehensive analysis of credit card users across various demographic and geographic dimensions. It is designed to help stakeholders understand usage trends, target customer segments, and make data-driven decisions.
 
 Key Insights Uncovered:
 Top Performing States: Identified the states with the highest number of credit card users, helping pinpoint high-demand regions.
